@@ -1,0 +1,27 @@
+[
+    {
+    "id":1,
+    "name": "Book",
+    "price": 4210.27,
+    "imgUrl": "/src/assets/books.jpg"
+    },
+    {
+    "id":2,
+    "name": "Computer",
+    "price": 45.27,
+    "imgUrl": "/src/assets/laptop.jpg"
+    },
+    {
+    "id":3,
+    "name": "Banana",
+    "price": 5.27,
+    "imgUrl": "/src/assets/banana.jpg"
+    },
+    {
+    "id":1,
+    "name": "Shoe",
+    "price": 62.27,
+    "imgUrl": "/src/assets/shoe.jpg"
+    }
+    
+]
